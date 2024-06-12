@@ -28,7 +28,7 @@ class PhoneBook {
         phoneBook.addContact("Олег", "+7(987)654-32-10");
         phoneBook.addContact("Кристина", "+7(345)678-90-12");
         phoneBook.addContact("Олег", "+7(234)567-89-01");
-        phoneBook.addContact("Елена", "+7(345)678-90-12");
+        phoneBook.addContact("Олег", "+7(345)678-90-12");
         phoneBook.addContact("Василий", "+7(346)678-90-12");
         phoneBook.addContact("Василий", "+7(111)222-33-33");
 
